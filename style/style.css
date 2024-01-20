@@ -408,3 +408,48 @@ span{
     border: none;
     margin-top: 20px;
 }
+
+
+
+
+
+
+
+
+.card-img2{
+    position: relative;
+    margin-top: 24px;
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.icon-div-head2{
+    position: absolute;
+    top: 56px;
+    left: 56px;
+    width: 450px;
+    height: 290px;
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    padding-left: 50px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    padding-right: 77px;
+
+}
+.icon-div-head2:hover{
+    border: 2px orangered solid;
+}
+.card-img3{
+    position: relative;
+    margin-top: 24px;
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
