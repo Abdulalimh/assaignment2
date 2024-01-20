@@ -360,3 +360,51 @@ span{
 
 
 
+
+.card-img{
+    position: relative;
+    width: 1170px;
+    height: 500px;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+.icon-div{
+    display: flex;
+    width: 500px;
+    height: 40px;
+
+}
+.icon-div-head{
+    position: absolute;
+    top: 56px;
+    right: 56px;
+    width: 450px;
+    height: 290px;
+    border-radius: 16px;
+    border: 2px solid #FFF;
+    background: rgba(255, 255, 255, 0.80);
+    backdrop-filter: blur(2.5px);
+    padding-left: 50px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    padding-right: 77px;
+
+}
+.icon-div-head:hover{
+    border: 2px orangered solid;
+}
+.icon-p{
+    display: inline;
+    
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+.icon-button{
+    padding: 14px 24px;
+    border-radius: 8px;
+    background: #FF5400;
+    border: none;
+    margin-top: 20px;
+}
