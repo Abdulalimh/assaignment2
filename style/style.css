@@ -84,13 +84,14 @@ span{
     display: flex;
     margin-left: auto;
     margin-right: auto;
+    padding-left: 0px;
 
 }
 .ex-ul{
     background-color: rgba(250, 235, 215, 0.377);
     border-radius: 10px;
 }
-#ul > li{
+.list-li{
     display: flex;
     color: rgba(19, 19, 24, 0.50);
     width: 174px;
@@ -103,6 +104,7 @@ span{
     padding: 16px;
     border-radius: 8px;
 }
+
 #ex-svg{ 
     margin-left: 50px; 
 }
