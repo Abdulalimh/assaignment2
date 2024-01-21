@@ -475,3 +475,88 @@ span{
     border-radius: 8px;
     font-size: 20px;
 }
+
+
+
+
+
+
+
+
+
+.see-head-div{
+    
+}
+/* .see-div{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+} */
+
+.see-div{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+    width: 1171px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+.div-a-sim{
+    padding-right: 60px;
+}
+.see-h1-2{
+    color: #131318;
+    font-family: Mulish;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.see-img{
+    position: relative;
+}
+.see-h3{
+    text-align: center;
+    position: absolute;
+    top: 160px;
+    left: 190px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 700;
+}
+.see-time{
+    position: absolute;
+    bottom: 60px;
+    left: 5px;
+    height: 15px;
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.see-time2{
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+   
+}
+.svg-time{
+    padding-right: 10px;
+}
+.see-time-p{
+    color: #FFF;
+}
+.div-time-lenth{
+    position: absolute;
+    bottom: 45px;
+    left: 25px;
+    width: 562px;
+    height: 4px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.30);
+}
+.div-time-svg{
+    position: absolute;
+}
