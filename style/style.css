@@ -662,6 +662,8 @@ input{
 footer{
     width: 1440px;
     height: 502px;
+    margin-left: auto;
+    margin-right: auto;
     background: rgba(19, 19, 24, 0.05);
     margin-top: 60px;
 
