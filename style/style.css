@@ -655,3 +655,43 @@ input{
     padding-top: 0px;
 }
 
+
+
+
+
+footer{
+    width: 1440px;
+    height: 502px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-top: 60px;
+
+}
+.img-foter{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: center;
+    padding-top: 100px;
+    
+}
+
+.foter-div{
+    width: 769px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #5A5A5D;
+    align-items: center;text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+#foter-p{
+    margin-top: 12px;
+}
+#foter-svg{
+    margin-top: 12px;
+}
+#foter-p-end{
+    margin-top: 130px;
+}
